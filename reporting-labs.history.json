@@ -1,0 +1,350 @@
+[
+ {
+  "time": 1791658726036,
+  "duration": 31365.451,
+  "passed": 0,
+  "failed": 1,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 1,
+  "tests": {
+   "chromium::tests/login page.spec.ts::NewLogin Test": [
+    "f",
+    30108
+   ]
+  }
+ },
+ {
+  "time": 1791658848050,
+  "duration": 24917.261,
+  "passed": 1,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 1,
+  "tests": {
+   "chromium::tests/login page.spec.ts::NewLogin Test": [
+    "p",
+    23181
+   ]
+  }
+ },
+ {
+  "time": 1791658971128,
+  "duration": 26906.002000000037,
+  "passed": 1,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 1,
+  "tests": {
+   "chromium::tests/login page.spec.ts::NewLogin Test": [
+    "p",
+    25595
+   ]
+  }
+ },
+ {
+  "time": 1791659466265,
+  "duration": 16577.538,
+  "passed": 1,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 1,
+  "tests": {
+   "chromium::tests/SignUp page.spec.ts::Signup Test": [
+    "p",
+    15033
+   ]
+  }
+ },
+ {
+  "time": 1791659573075,
+  "duration": 33774.11,
+  "passed": 0,
+  "failed": 4,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 4,
+  "tests": {
+   "chromium::tests/example.spec.ts::has title": [
+    "f",
+    30411
+   ],
+   "chromium::tests/example.spec.ts::get started link": [
+    "f",
+    30304
+   ],
+   "chromium::tests/login page.spec.ts::NewLogin Test": [
+    "f",
+    30350
+   ],
+   "chromium::tests/SignUp page.spec.ts::Signup Test": [
+    "f",
+    30409
+   ]
+  }
+ },
+ {
+  "time": 1791659899546,
+  "duration": 51899.412,
+  "passed": 2,
+  "failed": 2,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 4,
+  "tests": {
+   "chromium::tests/example.spec.ts::has title": [
+    "f",
+    30479
+   ],
+   "chromium::tests/example.spec.ts::get started link": [
+    "f",
+    30471
+   ],
+   "chromium::tests/login page.spec.ts::NewLogin Test": [
+    "p",
+    16599
+   ],
+   "chromium::tests/SignUp page.spec.ts::Signup Test": [
+    "p",
+    17828
+   ]
+  }
+ },
+ {
+  "time": 1791660252018,
+  "duration": 63513.54,
+  "passed": 0,
+  "failed": 4,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 4,
+  "tests": {
+   "chromium::tests/example.spec.ts::has title": [
+    "f",
+    30141
+   ],
+   "chromium::tests/example.spec.ts::get started link": [
+    "f",
+    30120
+   ],
+   "chromium::tests/login page.spec.ts::NewLogin Test": [
+    "f",
+    30195
+   ],
+   "chromium::tests/SignUp page.spec.ts::Signup Test": [
+    "f",
+    30163
+   ]
+  }
+ },
+ {
+  "time": 1791660375468,
+  "duration": 63678.539,
+  "passed": 0,
+  "failed": 4,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 4,
+  "tests": {
+   "chromium::tests/example.spec.ts::has title": [
+    "f",
+    30116
+   ],
+   "chromium::tests/example.spec.ts::get started link": [
+    "f",
+    30119
+   ],
+   "chromium::tests/login page.spec.ts::NewLogin Test": [
+    "f",
+    30175
+   ],
+   "chromium::tests/SignUp page.spec.ts::Signup Test": [
+    "f",
+    30209
+   ]
+  }
+ },
+ {
+  "time": 1791660509108,
+  "duration": 32515.208000000002,
+  "passed": 0,
+  "failed": 4,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 4,
+  "tests": {
+   "chromium::tests/example.spec.ts::has title": [
+    "f",
+    30139
+   ],
+   "chromium::tests/example.spec.ts::get started link": [
+    "f",
+    30135
+   ],
+   "chromium::tests/login page.spec.ts::NewLogin Test": [
+    "f",
+    30163
+   ],
+   "chromium::tests/SignUp page.spec.ts::Signup Test": [
+    "f",
+    30158
+   ]
+  }
+ },
+ {
+  "time": 1791660664568,
+  "duration": 32681.48,
+  "passed": 0,
+  "failed": 4,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 4,
+  "tests": {
+   "chromium::tests/example.spec.ts::has title": [
+    "f",
+    30163
+   ],
+   "chromium::tests/example.spec.ts::get started link": [
+    "f",
+    30143
+   ],
+   "chromium::tests/login page.spec.ts::NewLogin Test": [
+    "f",
+    30175
+   ],
+   "chromium::tests/SignUp page.spec.ts::Signup Test": [
+    "f",
+    30196
+   ]
+  }
+ },
+ {
+  "time": 1791660774240,
+  "duration": 16444.72,
+  "passed": 1,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 1,
+  "tests": {
+   "chromium::tests/example.spec.ts::has title": [
+    "p",
+    13223
+   ]
+  }
+ },
+ {
+  "time": 1791660832485,
+  "duration": 25095.193,
+  "passed": 1,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 1,
+  "tests": {
+   "chromium::tests/example.spec.ts::has title": [
+    "p",
+    22928
+   ]
+  }
+ },
+ {
+  "time": 1791660912034,
+  "duration": 15517.565999999992,
+  "passed": 4,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 4,
+  "tests": {
+   "chromium::tests/example.spec.ts::has title": [
+    "p",
+    7083
+   ],
+   "chromium::tests/example.spec.ts::get started link": [
+    "p",
+    7042
+   ],
+   "chromium::tests/login page.spec.ts::NewLogin Test": [
+    "p",
+    12446
+   ],
+   "chromium::tests/SignUp page.spec.ts::Signup Test": [
+    "p",
+    12735
+   ]
+  }
+ },
+ {
+  "time": 1791661009514,
+  "duration": 21112.874,
+  "passed": 4,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 4,
+  "tests": {
+   "chromium::tests/example.spec.ts::has title": [
+    "p",
+    11918
+   ],
+   "chromium::tests/example.spec.ts::get started link": [
+    "p",
+    12303
+   ],
+   "chromium::tests/login page.spec.ts::NewLogin Test": [
+    "p",
+    18888
+   ],
+   "chromium::tests/SignUp page.spec.ts::Signup Test": [
+    "p",
+    16280
+   ]
+  }
+ },
+ {
+  "time": 1791661342395,
+  "duration": 32627.133,
+  "passed": 0,
+  "failed": 4,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 4,
+  "tests": {
+   "chromium::tests/example.spec.ts::has title": [
+    "f",
+    30118
+   ],
+   "chromium::tests/example.spec.ts::get started link": [
+    "f",
+    30114
+   ],
+   "chromium::tests/login page.spec.ts::NewLogin Test": [
+    "f",
+    30190
+   ],
+   "chromium::tests/SignUp page.spec.ts::Signup Test": [
+    "f",
+    30176
+   ]
+  }
+ },
+ {
+  "time": 1791661408015,
+  "duration": 32049.788,
+  "passed": 0,
+  "failed": 1,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 1,
+  "tests": {
+   "chromium::tests/login page.spec.ts::NewLogin Test": [
+    "f",
+    30173
+   ]
+  }
+ }
+]
