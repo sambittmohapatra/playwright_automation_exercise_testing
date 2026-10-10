@@ -20,14 +20,14 @@ export class SignUppage extends BasePage { // inheritance
     async enterName(name: string): Promise<void> {
         await this.enterText(this.Name, name);
     }
-     async enterEmail(email: string): Promise<void> {
+    async enterEmail(email: string): Promise<void> {
         await this.enterText(this.EmailAddress, email);
     }
-     async clickSignUp(): Promise<void> {
+    async clickSignUp(): Promise<void> {
         await this.clickElement(this.SignUp)
     }
-    
-    async newsignup(name:string,email:string){
+
+    async newsignup(name: string, email: string) {
         await this.enterName(name);
         await this.enterEmail(email)
         await this.clickSignUp()
