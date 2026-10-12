@@ -38,7 +38,7 @@ on:
 jobs:
   test_suite:
     timeout-minutes: 60 
-    runs-on: windows-latest 🪟
+    runs-on: ubuntu-latest 🪟
     steps:
       - name: 📂 Checkout Repository
         uses: actions/checkout@v4
