@@ -3,7 +3,7 @@ import { test, expect } from "@playwright/test";
 import { SignUppage } from "../pages/SignUp Page";
 import { configManager } from "../ConfigManager";
 
-test("Signup Test", async ({ page }) => {
+test("Signup Test @e2e" , async ({ page }) => {
 
     const signup = new SignUppage(page);
 
